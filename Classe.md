@@ -86,4 +86,7 @@
    Um atributo privado de uma classe não pode ser diretamente acessado e manipulado por objetos de outras classes.
    
 ## Sobrecarga de métodos
+   A sobrecarga de método permite a existência de vários métodos com o mesmo nome, se tiverem assinaturas levemente diferentes.
 
+## Sobrecarga de construtores
+  A Sobrecarga permite usar o mesmo nome em mais de um método se suas listas de argumentos forem diferentes para separar um do outro.
