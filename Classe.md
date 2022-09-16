@@ -4,7 +4,7 @@
 
  ###Diferença entre classe e objeto
  
-   Classe é o modelo a ser seguido para que o objeto seja construído dentro de certas características. É algo lógico.
+    Classe é o modelo a ser seguido para que o objeto seja construído dentro de certas características. É algo lógico.
    O objeto é algo concreto. Nele os elementos estão de fato presentes ali.Objeto possui valores para os estados definidos 
    e chamam os comportamentos definidos executando os algoritmos.
    
@@ -21,4 +21,4 @@
     public String CorDosCabelos;
     
 ## Métodos
- 
+  Osmétodos são as ações da classe, diz o que a classe vai fazer.
